@@ -1,3 +1,5 @@
 # This is a new file for the new branch "Feature1".
 
 Some test text input.
+Some integer input - 123.
+More integer input - 456.
