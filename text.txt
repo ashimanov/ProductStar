@@ -3,3 +3,5 @@
 Some test text input.
 Some integer input - 123.
 More integer input - 456.
+
+Bigint input added - 45649874851321354684651321.
