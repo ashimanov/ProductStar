@@ -6,4 +6,8 @@ More integer input - 456.
 
 Bigint input added - 45649874851321354684651321.
 
+<<<<<<< HEAD
 String added - 'Hello, Cat!'
+=======
+String added - 'Hello, Alex!'
+>>>>>>> c0a98ec601c5a8ba628f714b6555f308eaab6eaa
